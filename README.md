@@ -1,5 +1,5 @@
 # Trip App UI using Flutter
-## ScreenShot
+## Preview
 
 ## Links
 ### Support Me
